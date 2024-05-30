@@ -32,7 +32,7 @@ These instructions are somewhat cribbed from the master grbl Build docs (https:/
     │       ├── grbl.h
     │       └── ...
     └── ...
-    ```
+  ```
 
 You are now set up to build and / or upload grblCR to an Arduino Uno 328p.
 
